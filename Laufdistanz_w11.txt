@@ -1,0 +1,18 @@
+1  TSG 1899 Hoffenheim 1.320,0
+2  Borussia Dortmund 1.315,9
+3  Borussia Mönchengladbach 1.315,7
+4  Bayer 04 Leverkusen 1.315,3
+5  Sport-Club Freiburg 1.313,3
+6  SV Werder Bremen 1.300,7
+7  Hannover 96 1.298,9
+8  VfL Wolfsburg 1.291,1
+9  FC Bayern München 1.276,6
+10 RB Leipzig 1.275,8
+11 1. FSV Mainz 05 1.272,9
+12 FC Augsburg 1.270,0
+13 Eintracht Frankfurt 1.267,0
+14 1. FC Nürnberg 1.266,7
+15 VfB Stuttgart 1.251,3
+16 FC Schalke 04 1.250,9
+17 Fortuna Düsseldorf 1895 e.V. 1.247,9
+18 Hertha BSC 1.247,2
