@@ -1,0 +1,18 @@
+1 	 		Borussia Dortmund 	11 	27 	8 	3 	0 	33:12 	+21
+	2 	 		Borussia Mönchengladbach 	11 	23 	7 	2 	2 	26:13 	+13
+	3 			RB Leipzig 	11 	22 	6 	4 	1 	22:9 	+13
+	4 			Eintracht Frankfurt 	11 	20 	6 	2 	3 	26:13 	+13
+	5 			FC Bayern München 	11 	20 	6 	2 	3 	20:14 	+6
+	6 			TSG 1899 Hoffenheim 	11 	19 	6 	1 	4 	24:15 	+9
+	7 			SV Werder Bremen 	11 	17 	5 	2 	4 	19:19 	0
+	8 	 		Hertha BSC 	11 	16 	4 	4 	3 	16:17 	-1
+	9 			1. FSV Mainz 05 	11 	15 	4 	3 	4 	10:12 	-2
+	10 			FC Augsburg 	11 	13 	3 	4 	4 	19:18 	+1
+	11 			Sport-Club Freiburg 	11 	13 	3 	4 	4 	15:19 	-4
+	12 			VfL Wolfsburg 	11 	12 	3 	3 	5 	15:17 	-2
+	13 	 		Bayer 04 Leverkusen 	11 	11 	3 	2 	6 	16:24 	-8
+	14 	 		FC Schalke 04 	11 	10 	3 	1 	7 	8:15 	-7
+	15 	 		1. FC Nürnberg 	11 	10 	2 	4 	5 	11:24 	-13
+	16 	 		Hannover 96 	11 	9 	2 	3 	6 	14:22 	-8
+	17 	 		Fortuna Düsseldorf 1895 e.V. 	11 	8 	2 	2 	7 	10:25 	-15
+	18 			VfB Stuttgart 	11 	8 	2 	2 	7 	8:24 	-16

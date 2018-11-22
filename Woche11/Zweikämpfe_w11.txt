@@ -1,0 +1,18 @@
+1  RB Leipzig 1.207
+2  Eintracht Frankfurt 1.155
+3  Hannover 96 1.130
+4  VfL Wolfsburg 1.127
+5  FC Augsburg 1.114
+6  SV Werder Bremen 1.093
+7  Bayer 04 Leverkusen 1.082
+8  TSG 1899 Hoffenheim 1.080
+9  FC Schalke 04 1.077
+10 Borussia Dortmund 1.072
+11 VfB Stuttgart 1.070
+12 Hertha BSC 1.049
+13 1. FSV Mainz 05 1.036
+14 Fortuna Düsseldorf 1895 e.V. 1.029
+15 FC Bayern München 999
+16 1. FC Nürnberg 994
+17 Sport-Club Freiburg 981
+18 Borussia Mönchengladbach 902

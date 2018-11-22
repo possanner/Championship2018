@@ -1,0 +1,18 @@
+1  FC Bayern München 192
+2  TSG 1899 Hoffenheim 187
+3  RB Leipzig 181
+4  FC Augsburg 167
+5  Borussia Mönchengladbach 154
+6  SV Werder Bremen 151
+7  VfL Wolfsburg 148
+7  Bayer 04 Leverkusen 148
+9  Borussia Dortmund 144
+10 1. FSV Mainz 05 139
+11 Hannover 96 137
+11 Fortuna Düsseldorf 1895 e.V. 137
+13 Sport-Club Freiburg 136
+14 FC Schalke 04 133
+15 VfB Stuttgart 121
+16 Eintracht Frankfurt 120
+17 Hertha BSC 115
+18 1. FC Nürnberg 109

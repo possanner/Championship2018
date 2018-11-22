@@ -1,0 +1,18 @@
+1	Bayern München	Bayern München	56	39	95
+2	Bor. Mönchengladbach	Bor. Mönchengladbach	35	35	70
+3	VfL Wolfsburg	VfL Wolfsburg	33	35	68
+4	Borussia Dortmund	Borussia Dortmund	26	38	64
+5	1899 Hoffenheim	1899 Hoffenheim	38	24	62
+6	Hannover 96	Hannover 96	19	40	59
+7	FC Augsburg	FC Augsburg	26	32	58
+8	Bayer Leverkusen	Bayer Leverkusen	29	28	57
+9	RB Leipzig	RB Leipzig	25	31	56
+10	Werder Bremen	Werder Bremen	26	28	54
+11	1. FC Nürnberg	1. FC Nürnberg	21	32	53
+12	VfB Stuttgart	VfB Stuttgart	27	24	51
+13	Eintracht Frankfurt	Eintracht Frankfurt	26	24	50
+14	FC Schalke 04	FC Schalke 04	21	27	48
+15	1. FSV Mainz 05	1. FSV Mainz 05	25	21	46
+15	Hertha BSC	Hertha BSC	25	21	46
+17	Fortuna Düsseldorf	Fortuna Düsseldorf	18	27	45
+18	SC Freiburg	SC Freiburg	24	18	42
