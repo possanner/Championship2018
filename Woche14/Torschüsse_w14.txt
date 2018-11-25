@@ -1,0 +1,18 @@
+1	SC Paderborn 07	SC Paderborn 07	217	26	8,35
+2	1. FC Köln	1. FC Köln	205	35	5,86
+3	Arminia Bielefeld	Arminia Bielefeld	201	16	12,56
+4	Jahn Regensburg	Jahn Regensburg	196	24	8,17
+5	1. FC Heidenheim 1846	1. FC Heidenheim 1846	196	20	9,80
+6	SpVgg Greuther Fürth	SpVgg Greuther Fürth	193	21	9,19
+7	MSV Duisburg	MSV Duisburg	191	13	14,69
+8	Hamburger SV	Hamburger SV	181	17	10,65
+9	VfL Bochum	VfL Bochum	174	24	7,25
+10	FC St. Pauli	FC St. Pauli	171	19	9,00
+11	SV Sandhausen	SV Sandhausen	169	14	12,07
+12	Dynamo Dresden	Dynamo Dresden	168	17	9,88
+13	1. FC Union Berlin	1. FC Union Berlin	167	19	8,79
+14	Erzgebirge Aue	Erzgebirge Aue	166	14	11,86
+15	1. FC Magdeburg	1. FC Magdeburg	163	18	9,06
+16	FC Ingolstadt 04	FC Ingolstadt 04	163	13	12,54
+17	Holstein Kiel	Holstein Kiel	159	24	6,63
+18	SV Darmstadt 98	SV Darmstadt 98	145	17	8,53
