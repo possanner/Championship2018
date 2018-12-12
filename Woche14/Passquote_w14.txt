@@ -1,0 +1,18 @@
+1	Bayern München	Bayern München	8011	993	9004	88,97
+2	Borussia Dortmund	Borussia Dortmund	6570	950	7520	87,37
+3	Bor. Mönchengladbach	Bor. Mönchengladbach	5783	947	6730	85,93
+4	Werder Bremen	Werder Bremen	5768	1021	6789	84,96
+5	1899 Hoffenheim	1899 Hoffenheim	5058	923	5981	84,57
+6	Bayer Leverkusen	Bayer Leverkusen	5161	1011	6172	83,62
+7	1. FSV Mainz 05	1. FSV Mainz 05	4300	895	5195	82,77
+8	Hertha BSC	Hertha BSC	4156	878	5034	82,56
+9	Hannover 96	Hannover 96	4249	1008	5257	80,83
+10	RB Leipzig	RB Leipzig	4583	1092	5675	80,76
+11	VfL Wolfsburg	VfL Wolfsburg	4634	1112	5746	80,65
+12	1. FC Nürnberg	1. FC Nürnberg	3732	897	4629	80,62
+13	VfB Stuttgart	VfB Stuttgart	3935	955	4890	80,47
+14	FC Schalke 04	FC Schalke 04	3968	990	4958	80,03
+15	Fortuna Düsseldorf	Fortuna Düsseldorf	3744	952	4696	79,73
+16	SC Freiburg	SC Freiburg	3502	922	4424	79,16
+17	FC Augsburg	FC Augsburg	3722	1139	4861	76,57
+18	Eintracht Frankfurt	Eintracht Frankfurt	3668	1127	4795	76,50

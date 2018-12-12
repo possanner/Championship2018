@@ -1,0 +1,18 @@
+1	Bayern München	Bayern München	243	28	8,68
+2	1899 Hoffenheim	1899 Hoffenheim	239	30	7,97
+3	RB Leipzig	RB Leipzig	222	24	9,25
+3	FC Augsburg	FC Augsburg	222	20	11,10
+5	Bor. Mönchengladbach	Bor. Mönchengladbach	207	33	6,27
+6	Bayer Leverkusen	Bayer Leverkusen	205	20	10,25
+7	Werder Bremen	Werder Bremen	202	24	8,42
+8	1. FSV Mainz 05	1. FSV Mainz 05	193	13	14,85
+9	VfL Wolfsburg	VfL Wolfsburg	178	20	8,90
+10	Borussia Dortmund	Borussia Dortmund	177	39	4,54
+11	SC Freiburg	SC Freiburg	176	19	9,26
+12	Fortuna Düsseldorf	Fortuna Düsseldorf	175	14	12,50
+13	FC Schalke 04	FC Schalke 04	174	15	11,60
+14	Eintracht Frankfurt	Eintracht Frankfurt	166	30	5,53
+15	Hannover 96	Hannover 96	164	16	10,25
+16	Hertha BSC	Hertha BSC	159	22	7,23
+17	VfB Stuttgart	VfB Stuttgart	150	9	16,67
+18	1. FC Nürnberg	1. FC Nürnberg	136	14	9,71
