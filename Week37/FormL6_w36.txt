@@ -1,0 +1,24 @@
+1 	Norwich City 	6 	5 	0 	1 	15 	6 	+9 	15
+2 	Sheffield Utd 	6 	4 	2 	0 	11 	3 	+8 	14
+3 	Preston 	6 	4 	2 	0 	10 	4 	+6 	14
+4 	Leeds Utd 	6 	4 	1 	1 	10 	4 	+6 	13
+5 	Brentford 	6 	4 	0 	2 	12 	6 	+6 	12
+6 	Nottm Forest 	6 	3 	2 	1 	8 	5 	+3 	11
+7 	Reading 	6 	3 	2 	1 	8 	9 	-1 	11
+8 	Sheffield Wed 	6 	2 	4 	0 	8 	4 	+4 	10
+9 	Aston Villa 	6 	2 	2 	2 	9 	7 	+2 	8
+10 	Middlesbrough 	6 	2 	2 	2 	5 	4 	+1 	8
+11 	West Bromwich 	6 	2 	2 	2 	8 	10 	-2 	8
+12 	Stoke City 	6 	1 	4 	1 	4 	3 	+1 	7
+13 	Rotherham 	6 	1 	4 	1 	9 	10 	-1 	7
+14 	Bristol City 	6 	2 	1 	3 	7 	8 	-1 	7
+15 	Birmingham City 	6 	2 	1 	3 	8 	10 	-2 	7
+16 	Hull City 	6 	2 	1 	3 	7 	13 	-6 	7
+17 	Swansea City 	6 	2 	0 	4 	5 	8 	-3 	6
+18 	Bolton 	6 	2 	0 	4 	5 	11 	-6 	6
+19 	Derby County 	6 	1 	2 	3 	4 	9 	-5 	5
+20 	Wigan Athletic 	6 	0 	4 	2 	5 	7 	-2 	4
+21 	Ipswich Town 	6 	0 	4 	2 	5 	9 	-4 	4
+22 	Millwall 	6 	1 	1 	4 	5 	10 	-5 	4
+23 	QP Rangers 	6 	1 	1 	4 	4 	10 	-6 	4
+24 	Blackburn 	6 	0 	1 	5 	5 	10 	-5 	1
